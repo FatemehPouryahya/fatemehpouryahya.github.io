@@ -1,57 +1,61 @@
 {
   "basics": {
     "name": "Fatemeh Pouryahya",
-    "label": "Director",
+    "label": "Student",
     "picture": "https://fatemehpouryahya.github.io/images/45.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "fpour100@gmail.com",
+    "phone": "",
+    "website": "https://fatemehpouryahya.github.io",
+    "summary": "Hi! I am a master’s student with concentration in statistics in the mathematics and statistics department at University of Ottawa. My research interest revolve around mathematical, computational and data analytic problems with biological and biomedical implications. I am currently doing research in computational comparative genomics at David Sankoff’s lab. 
+Previously, I worked as an accounting expert in couple of industries, and I received my bachelor’s degree with concentration in applied mathematics in the mathematics, statistics, and computer science department at University of Tehran.
+",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "fatemehpouryahya",
+        "url": "http://github.com/fatemehpouryahya"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "",
+        "url": "http://linkedin.com/in/fatemeh-pouryahya-487720181"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": "http://twitter.com/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": "http://instagram.com/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "Computational biology",
+      
     },
     {
-      "name": "data mining",
+      "name": "Machine learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Algorithms",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Modeling",
       "keywords": [
       ]
     }
@@ -61,12 +65,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R",
+        "LaTeX",
+        "MSOffice",
+        "Mathematica",
+        "Maple"
       ]
     },
     {

@@ -109,28 +109,6 @@ Previously, I worked as an accounting expert in couple of industries, and I rece
       ]
     }   
   ],
- "gggggggg": [
-    {
-      "institution": "Univ. of Ottawa, Canada",
-      "area": "Mathematics and Statistics, concentration in Statistics",
-      "studyType": "MSc.",
-      "startDate": "2019",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Univ. of Tehran, Iran",
-      "area": "Mathematics and Applications",
-      "studyType": "B.Sc.",
-      "startDate": "2010",
-      "endDate": "2015",
-      "gpa": "",
-      "courses": [
-      ]
-    }   
-  ],
 "Relevant Courses": [
     {
       "Graduate Courses:",
@@ -149,7 +127,7 @@ of Probability, Probability I and II, Linear Optimization I and II, Numerical Li
       ]
     }
   ],
-  "WORK": [
+  "Work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",

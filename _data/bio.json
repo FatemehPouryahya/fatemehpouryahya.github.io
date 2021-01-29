@@ -110,6 +110,22 @@ Previously, I worked as an accounting expert in couple of industries, and I rece
     }
     
   ],
+"Relevant Courses": [
+    {
+      "Graduate Courses:",
+      "area": "Statistical Machine Learning, Mathematical genomics, Discrete Applied Math I, Stochastic Analysis, Analysis of Categorical data, Cryptography",
+    },
+    {
+      "Undergrad Courses:",
+      "area": "Bioinformatics, Advanced Programming, Data Structure, Graph Theory, Combinatorics, Foundation
+of Probability, Probability I and II, Linear Optimization I and II, Numerical Linear Algebra, Numerical Analysis, Nonlinear Optimization, Differential Equations, Matrices and Linear Algebra, Economics, Strategic games, Dynamical systems, Differential Analysis, Topology",
+     
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    
+  ],
   "work": [
     {
       "company": "UH Manoa Board of Publications",

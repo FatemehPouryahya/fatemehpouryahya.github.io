@@ -107,13 +107,15 @@ Previously, I worked as an accounting expert in couple of industries, and I rece
       "gpa": "",
       "courses": [
       ]
-    }
-    
+    }   
   ],
 "Relevant Courses": [
     {
       "Graduate Courses:",
       "area": "Statistical Machine Learning, Mathematical genomics, Discrete Applied Math I, Stochastic Analysis, Analysis of Categorical data, Cryptography",
+      "gpa": "",
+      "courses": [
+      ]
     },
     {
       "Undergrad Courses:",
@@ -124,7 +126,6 @@ of Probability, Probability I and II, Linear Optimization I and II, Numerical Li
       "courses": [
       ]
     }
-    
   ],
   "work": [
     {
